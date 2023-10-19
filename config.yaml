@@ -1,0 +1,49 @@
+baseURL: https://career-ladders.infracloud.io/
+languageCode: en-us
+title: Career Ladders
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+module:
+  imports:
+    - path: github.com/imfing/hextra
+params:
+  navbar:
+    displayTitle: true
+    logo:
+      path: /infracloud.svg
+      dark: /infracloud-white.svg
+      link: /docs
+      width: 150
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+menu:
+  main:
+    - name: About InfraCloud ↗
+      weight: 3
+      url: "https://www.infracloud.io/about-us/"
+    # - name: Search
+    #   weight: 5
+    #   params:
+    #     type: search
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/infracloudio/career-ladders"
+      params:
+        icon: github
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: About
+      url: "/docs/#about-this-website"
+      weight: 2
+    - name: "InfraCloud values"
+      url: "https://www.infracloud.io/the-infracloud-way/"
+      weight: 3
+    - name: "Culture related posts"
+      url: "https://www.infracloud.io/blogs/category/culture/"
+      weight: 4

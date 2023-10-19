@@ -1,0 +1,28 @@
+:root {
+  --primary-hue: 31deg;
+  --primary-saturation: 100%;
+}
+
+.nav-container {
+    background-color: #e1ddee;
+}
+
+/* Less bold font for the title */
+nav > a[href="/docs"] > span.font-extrabold {
+    font-weight: 550;
+}
+
+/*
+body {
+    background: linear-gradient(90.1deg,#b995e8 1.98%,#8f71e7);
+}
+
+
+@media (prefers-color-scheme: light)
+{
+  body {
+      background: linear-gradient(180deg, #F6F8FE, rgba(255,255,255,0));
+  }
+}
+*/
+
