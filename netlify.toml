@@ -6,6 +6,6 @@
   HUGO_VERSION = "0.119.0"
 
 [[redirects]]
-  from = "/"
-  to = "/docs/"
+  from = "/*"
+  to = "/docs/:splat"
   status = 302
