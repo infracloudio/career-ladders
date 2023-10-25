@@ -4,24 +4,18 @@ date: 2023-10-13T19:16:17+05:30
 toc: false
 next: introduction
 ---
-Career Ladder is a progression framework within [InfraCloud](https://www.infracloud.io/). It highlights different levels within InfraCloud and the key competencies required at each of the levels. The document aims to provide a framework for [Infranaut’s](# "We call InfraCloud employees Infranauts") growth and developmental roadmap.
 
-### Key objectives
-* Describe competencies across different levels in the organization.
-* Codify and present how roles and responsibilities progress across levels.
-* Guide to your professional development plans.
+You may agree that naming is everything in the software industry - from variable names to class names, but how about extending the idea to the names of roles? Let’s say you are a  “Senior Software Engineer” - great but what does that even mean? Does the name & definition translate across companies? Does everyone think exactly the same thing when they say “Senior Software Engineer”? The answer to almost all these questions is in the negative.
+
+In this case, unfortunately, only naming does not address the problem completely! So when we were growing rapidly as a software engineering organization, we thought about this a bit and decided to attempt defining the roles a bit more concretely. We looked around at what people have done before in this area. We found an excellent [video by Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10) (Answers why you need something like this) and [Sarah Dresner’s framework](https://career-ladders.dev/engineering) (Answers how you can do it), as well as [Medium’s Growth Rubrik framework](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=2049640133), which is another but a bit more involved example of how to build a career ladder.
+
+One other realization was that, while guidance is good, the role descriptions are not something you simply copy and expect to work. For example, as an open source software focused company, values such as community were essential to our existence. So we wrote our own detailed 2-page descriptions of roles and what it takes to move from one to the other.
+
+We hope you find these useful - but definitely improvise to fit your organization’s needs and goals. We are happy to share more; please feel free to reach out to [Vishal](https://www.linkedin.com/in/vishalbiyani/). Also, this whole thing is available as a [GitHub repo at infracloudio/career-ladders](https://github.com/infracloudio/career-ladders), feel free to use it.
 
 <!-- <div class="mb-6"> -->
 <!-- {{< hextra/hero-button text="Explore the framework" link="introduction" >}} -->
 <!-- </div> -->
-
-## About this website
-We are open sourcing the career ladders used at InfraCloud for everyone. Our career ladders are designed to cover the additional skills needed to be a consultant. You can use this as a starting point to build career ladders for your own organization. Each organization is unique, so we encourage you to modify our career ladders to suit your needs. 
-
-A lot of inspiration for this work came from:
-* Sarah Dresner’s framework <https://career-ladders.dev/engineering>
-* Some good inputs from [Medium’s Growth Rubrik framework](https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=2049640133)
-* [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10)
 
 <!-- ## Next -->
 

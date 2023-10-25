@@ -1,10 +1,19 @@
 ---
-title: "Details of the framework"
+title: "Introduction to the framework"
 linktitle: "Introduction"
 date: 2023-10-13T19:16:17+05:30
 weight: 1
 prev: docs
 ---
+
+Career Ladder is a progression framework within [InfraCloud](https://www.infracloud.io/). It highlights different levels within InfraCloud and the key competencies required at each of the levels. The document aims to provide a framework for [Infranaut’s](# "We call InfraCloud employees Infranauts") growth and developmental roadmap.
+
+### Key objectives
+* Describe competencies across different levels in the organization.
+* Codify and present how roles and responsibilities progress across levels.
+* Guide to your professional development plans.
+
+## Structure
 
 Each level has been broken down across two broad buckets, Professional Competencies and Behavioral Competencies.
 

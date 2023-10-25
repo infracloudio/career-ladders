@@ -39,7 +39,7 @@ menu:
         type: separator
       weight: 1
     - name: About
-      url: "/docs/#about-this-website"
+      url: "/docs/"
       weight: 2
     - name: "InfraCloud values"
       url: "https://www.infracloud.io/the-infracloud-way/"
