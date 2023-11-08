@@ -4,6 +4,7 @@ linktitle: "Introduction"
 date: 2023-10-13T19:16:17+05:30
 weight: 1
 prev: docs
+next: engineering
 ---
 
 Career Ladder is a progression framework within [InfraCloud](https://www.infracloud.io/). It highlights different levels within InfraCloud and the key competencies required at each of the levels. The document aims to provide a framework for [Infranaut’s](# "We call InfraCloud employees Infranauts") growth and developmental roadmap.
@@ -43,3 +44,7 @@ Behavioral Competencies comprise a list of Enabling Traits and they act as a bui
 
 ### Broad Indicators
 This section gives a rough split of responsibilities and any other data point based on anecdote/experience.
+
+{{< callout type="info" >}}
+  Currently, we have listed the career ladder for the engineering function. Other career ladders will be added later.
+{{< /callout >}}
