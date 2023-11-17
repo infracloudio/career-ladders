@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 date: 2023-10-16T17:26:11+05:30
-description: ""
+description: "FAQ related to the Engineering Career Ladder used at InfraCloud"
 weight: 150
 ---
 

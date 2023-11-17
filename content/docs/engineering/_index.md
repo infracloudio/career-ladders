@@ -1,6 +1,7 @@
 ---
 title: "Engineering"
 date: 2023-10-16T17:16:35+05:30
+description: "The Engineering Career Ladder used at InfraCloud"
 weight: 2
 sidebar:
   open: true

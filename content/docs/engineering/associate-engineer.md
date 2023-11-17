@@ -2,7 +2,7 @@
 title: "Associate Engineer"
 linktitle: "Associate Engineer"
 date: 2023-10-16T17:25:40+05:30
-description: ""
+description: "The Engineering Career Ladder used at InfraCloud - Associate Engineer role"
 weight: 100
 ---
 

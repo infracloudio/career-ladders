@@ -2,7 +2,7 @@
 title: "Senior Engineer"
 linktitle: "Senior Engineer"
 date: 2023-10-16T17:25:50+05:30
-description: ""
+description: "The Engineering Career Ladder used at InfraCloud - Senior Engineer role"
 weight: 102
 ---
 

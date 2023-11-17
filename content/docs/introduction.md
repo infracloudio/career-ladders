@@ -2,6 +2,7 @@
 title: "Introduction to the framework"
 linktitle: "Introduction"
 date: 2023-10-13T19:16:17+05:30
+description: "Objectives and structure of the Career Laddering Framework used at InfraCloud"
 weight: 1
 prev: docs
 next: engineering

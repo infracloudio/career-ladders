@@ -2,7 +2,7 @@
 title: "Staff Engineer"
 linktitle: "Staff Engineer"
 date: 2023-10-16T17:25:55+05:30
-description: ""
+description: "The Engineering Career Ladder used at InfraCloud - Staff Engineer role"
 weight: 103
 ---
 

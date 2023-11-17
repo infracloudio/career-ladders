@@ -2,7 +2,7 @@
 title: "Principal Engineer"
 linktitle: "Principal Engineer"
 date: 2023-10-16T17:26:03+05:30
-description: ""
+description: "The Engineering Career Ladder used at InfraCloud - Principal Engineer role"
 weight: 104
 ---
 
