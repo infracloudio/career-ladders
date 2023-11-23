@@ -8,7 +8,7 @@ prev: docs
 next: engineering
 ---
 
-Career Ladder is a progression framework within [InfraCloud](https://www.infracloud.io/). It highlights different levels within InfraCloud and the key competencies required at each of the levels. The document aims to provide a framework for [Infranaut’s](# "We call InfraCloud employees Infranauts") growth and developmental roadmap.
+Career ladder is a progression framework within [InfraCloud](https://www.infracloud.io/). It highlights different levels within InfraCloud and the key competencies required at each of the levels. The document aims to provide a framework for [Infranaut’s](# "We call InfraCloud employees Infranauts") growth and developmental roadmap.
 
 ### Key objectives
 * Describe competencies across different levels in the organization.

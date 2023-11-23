@@ -2,7 +2,7 @@
 title: "Engineer"
 linktitle: "Engineer"
 date: 2023-10-16T17:25:45+05:30
-description: "The Engineering Career Ladder used at InfraCloud - Engineer role"
+description: "The Engineering career ladder used at InfraCloud - Engineer role"
 weight: 101
 ---
 

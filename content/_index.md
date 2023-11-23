@@ -15,7 +15,7 @@ date: 2023-10-13T19:16:10+05:30
 
 <div class="mb-12">
 {{< hextra/hero-subtitle >}}
-  Career Ladders used at InfraCloud&nbsp;<br class="sm:block hidden" />open sourced for everyone.
+  Career ladders used at InfraCloud&nbsp;<br class="sm:block hidden" />open sourced for everyone.
 {{< /hextra/hero-subtitle >}}
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Career Ladders"
 date: 2023-10-13T19:16:17+05:30
-description: "Career Ladders used at InfraCloud. Career Laddering Framework highlights different levels and the key competencies required at each of the level."
+description: "Career ladders used at InfraCloud. Career Laddering Framework highlights different levels of a role and the key competencies required at each of the levels."
 toc: false
 next: introduction
 ---

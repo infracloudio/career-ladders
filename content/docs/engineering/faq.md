@@ -1,11 +1,11 @@
 ---
 title: "FAQ"
 date: 2023-10-16T17:26:11+05:30
-description: "FAQ related to the Engineering Career Ladder used at InfraCloud"
+description: "FAQ related to the Engineering career ladder used at InfraCloud"
 weight: 150
 ---
 
-<!-- 1. **Who all under engineering organization are covered under Career Laddering?**   -->
+<!-- 1. **Who all under engineering organization are covered under career laddering?**   -->
 <!--    The engineering career laddering is applicable to Product/SRE/QE/Security Engineers in the Organization. -->
 
 1. **Will staff engineers be taking care of multiple projects?**  
@@ -36,8 +36,8 @@ weight: 150
 <!-- Ans 14: Engineering Manager designation typically deals with specific areas/departments within a wider engineering org. TPM usually is associated with specific projects within the area/departments. As of now, we are rolling out TPM roles and will evolve the PM org over time as we grow. -->
 
 <!-- 1. **When do we refer to career laddering?**   -->
-<!--   Career Laddering can be referred to at any point in time to know a detailed understanding of the role.   -->
+<!--   career laddering can be referred to at any point in time to know a detailed understanding of the role.   -->
 <!--   Eg1: A new Infranaut to read and discuss with a mentor in the first 30 days of On-boarding   -->
 <!--   Eg 2: Need role clarity   -->
-<!--   Eg 3: When the Career Laddering rollout is new or each time when its updated   -->
+<!--   Eg 3: When the career laddering rollout is new or each time when its updated   -->
 <!--   Eg 4. If there is an opportunity to change tracks -->
