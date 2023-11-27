@@ -31,3 +31,5 @@ A lot of inspiration for this work came from:
 * [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10)
 
 This repository is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](./LICENSE) for the full license text.
+
+The website favicon is Ladder by Gregor Cresnar from <a href="https://thenounproject.com/browse/icons/term/ladder/" target="_blank" title="Ladder Icons">Noun Project</a> (CC BY 3.0)
