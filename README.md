@@ -6,7 +6,7 @@ You may agree that naming is everything in the software industry - from variable
 
 In such cases, unfortunately, only naming does not address the problem completely! That’s where the career laddering framework comes into the picture. It charts out how each role/position translates to actual responsibilities, skills, traits, etc. This helps to have more clarity about your current role, what all is expected of you at each level, how to move to the next level, and so on.
 
-Read [the announcement post](#) to know how we reached a point where we came up with our own career laddering framework, how we built it, and what we learned along the way.
+Read [the announcement post](https://infracloud.io/blogs/infracloud-career-laddering-framework/) to know how we reached a point where we came up with our own career laddering framework, how we built it, and what we learned along the way.
 
 This repository hosts the source of the InfraCloud Career Ladders website.
 
